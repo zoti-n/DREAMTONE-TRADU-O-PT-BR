@@ -13,6 +13,7 @@
 <h2> - COMO INSTALAR A TRADUÇÃO - </h2>
 </div>
 <div align="center">
-<p>Dreamtone é um jogo ainda em desenvolvimento, com sua demo estando disponível para aqueles que<br>querem conhecer e jogar.<br>
-<p>↓ Logo abaixo estará o método para instalar a tradução. ↓</p>
+-
 </div>
+1. — Localize a pasta do jogo. Onde ficará o jogo vai depender de onde o usuário o deixar em seu computador.<br>
+   * Caso tenha o jogo na Steam, clique no jogo com o botão direto do mouse em <i>Gerenciar</i> e depois <i>Explorar arquivos locais</i>
