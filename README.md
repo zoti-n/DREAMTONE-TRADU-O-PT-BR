@@ -40,5 +40,5 @@
 ## Créditos
 <img src="creditos" width="300" > 
 <b>PexPR</b> ▸ Tradução 〢 Revisão<br>
-<b>Zoti</b> ▸ Tradução  〢 Sprites<br>
-<b>Ramb</b> ▸ Sprites<br>
+<b>Zoti</b> ▸ Tradução  〢 Sprites 〢 Revisão<br>
+<b>Rambi</b> ▸ Sprites<br>
