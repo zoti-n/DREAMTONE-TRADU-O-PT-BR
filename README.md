@@ -18,7 +18,7 @@
 ---
 
 ## Como instalar a tradução
-( Recomendo: faça backup dos arquivos originais antes de substituir. )
+( Recomendo: que faça backup dos arquivos originais antes de substituir. )
 ### Localize a pasta do jogo
 - Primeiro, descubra onde o jogo está instalado (Downloads, Documentos ou Área de Trabalho).
 - Se você usa a Steam:
