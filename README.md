@@ -22,3 +22,5 @@ O jogo tem duas versões disponíveis para download: <b>Steam</b> e <b>Itch.io</
 <p><b>STEAM</b></p>
 
 <p>Acesse sua Steam, vá para a aba da Biblioteca e clique em Página Inicial.</p>
+<img src="Steam1.png">
+<p>-</p>
