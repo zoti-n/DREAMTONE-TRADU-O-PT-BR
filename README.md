@@ -1,19 +1,38 @@
 <div align="center">
-   <img src="LOGO_DRTREAM.png" >  
-  <h1> - DREAMTONE: Demo - <br> </h1>
-  <p>🇧🇷 Fã-tradução PT-BR  🌕<br>
-  Jogo por: Benichi
-</div>
-<div align="center">
-<p>Essa é uma tradução feita inteiramente por fãs, não temos envolvendo algum com Benich, e sua equipe.<br>
-<small>Recomendamos fortemente que suportem o criador e esse projeto ainda em desenvolvimento.</small>
+  <img src="LOGO_DRTREAM.png" >  
+
+   🌕 DREAMTONE: Demo
+
+  🇧🇷 Fã-tradução PT-BR  
+  Jogo por: **Benichi**
 </div>
 
-<div align="center">
-<h2> - COMO INSTALAR A TRADUÇÃO - </h2>
-</div>
-<div align="center">
--
-</div>
-1. — Localize a pasta do jogo. Onde ficará o jogo vai depender de onde o usuário o deixar em seu computador.<br>
-   * Caso tenha o jogo na Steam, clique no jogo com o botão direto do mouse em <i>Gerenciar</i> e depois <i>Explorar arquivos locais</i>
+Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Benichi. e sua equipe.
+
+Recomendamos fortemente que você apoie o desenvolvedor e o projeto original.
+
+---
+
+## Como instalar a tradução
+( Recomendo: faça backup dos arquivos originais antes de substituir. )
+### Localize a pasta do jogo
+- Primeiro, descubra onde o jogo está instalado (Downloads, Documentos ou Área de Trabalho).
+- Se você usa a Steam:
+  - Clique com o botão direito no jogo
+  - Vá em **Gerenciar → Explorar arquivos locais**
+###  Instale a tradução
+- Abra a pasta onde o "DREAMTONE_Br" está instalado.
+- extraia na pasta "DREAMTONE Demo"
+- Quando aparecer a opção, clique em Substituir o arquivo no destino.
+ <br> ou
+- Copie o arquivo `.pck` da tradução.
+- Cole o arquivo dentro da pasta do jogo.
+- Quando aparecer a opção, clique em Substituir o arquivo no destino.
+### É isso!
+
+
+
+## Créditos de Tradução
+<b>PexPR</b> ▸ Tradução 〢 Revisão<br>
+<b>Zoti</b> ▸ Tradução  〢 Sprites<br>
+<b>Ramb</b> ▸ Sprites<br>
